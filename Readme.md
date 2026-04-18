@@ -184,6 +184,8 @@ jupyter notebook notebooks/analysis_notebook.ipynb
 | Reason Heatmap | `09_reason_by_platform_heatmap.png` | Platform × Primary reason heatmap |
 
 ---
+## Dashboard output 
+![](images/webpageoutput1.png)
 
 ## 📈 Key Findings (Sample)
 
@@ -218,7 +220,7 @@ jupyter notebook notebooks/analysis_notebook.ipynb
 
 ## 👨‍💻 Author
 
-**Seethaka**  
+**Seethaka Rakshitha**  
 Data Science Portfolio Project | Built for Placement/Internship Readiness  
 
 ---
