@@ -186,6 +186,8 @@ jupyter notebook notebooks/analysis_notebook.ipynb
 ---
 ## Dashboard output 
 ![](images/webpageoutput1.png)
+![](images/output2.png)
+![](images/output3.png)
 
 ## 📈 Key Findings (Sample)
 
