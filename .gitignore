@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+outputs/charts/*.png
+outputs/reports/*.txt
+data/poll_data_raw.csv
+data/poll_data_clean.csv
+*.egg-info/
+dist/
+build/
